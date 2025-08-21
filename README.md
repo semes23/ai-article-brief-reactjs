@@ -9,9 +9,7 @@ The primary aim of this `reactjs-ai-summarizer` initiative is to offer users a s
 
 The `reactjs-ai-summarizer` is a web application built with ReactJS, integrating advanced AI capabilities for efficient text summarization. Users can effortlessly input their content, and the application's sophisticated algorithms will process it to produce coherent and condensed summaries. This project combines the strengths of ReactJS, Redux Toolkit, and Tailwind CSS to construct an aesthetically pleasing and highly responsive user interface.
 
-## Live Application
 
-Access and interact with my project [here](https://reactjs-ai-summarizer.vercel.app/) 👈
 
 ## Project Structure
 
